@@ -1,4 +1,4 @@
-# Academic homepage — Georgios Karagkounis
+#  Ηomepage — Georgios Karagkounis
 
 ## Δημοσίευση στο GitHub Pages
 
