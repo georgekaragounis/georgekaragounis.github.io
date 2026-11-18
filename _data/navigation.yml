@@ -1,0 +1,13 @@
+main:
+- title: About
+  url: /
+- title: Publications
+  url: /publications/
+- title: Projects
+  url: /projects/
+- title: CV
+  url: /cv/
+- title: Certifications
+  url: /certifications/
+- title: Honors & Awards
+  url: /awards/
